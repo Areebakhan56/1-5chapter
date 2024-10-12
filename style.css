@@ -1,0 +1,23 @@
+.alert {
+    padding: 10px;
+    background-color: #1f4454; /* Red */
+    color: white;
+    width: 25%;
+  }
+  /* The close button */
+  .closebtn {
+
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 28px;
+    line-height: 25px;
+  }
+.btn {
+    background-color: green;
+    border-radius: 5px;
+    border:0 ;
+    font-size: 1.4rem;
+    font-weight: 800;
+    margin: 1rem 0;
+}
